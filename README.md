@@ -15,3 +15,5 @@ In this repository, we explore the Tower of Hanoi challenge. We represent each c
 * Assign a value of 1 to each edge in the graph.
   
 Feel free to explore the code and contribute to solving this classic puzzle!
+
+![image](https://github.com/Lucaspm5/Hanoi-tower/assets/125845662/9311957d-b816-4357-970f-a47d89ed1891)
